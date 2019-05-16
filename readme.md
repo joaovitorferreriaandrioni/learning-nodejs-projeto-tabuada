@@ -23,7 +23,7 @@ $ cd learning-nodejs-projeto-tabuada
 $ npm install
 
 ```
-##Utilização
+## Utilização
 Para executar a aplicação executar:
 ```bash
 $ node app
@@ -31,3 +31,9 @@ $ node app
 A aplicação está configurada para rodar na porta 3000.
 Para acessar a apliação entrar no enredeco
 https://localhost3000. Para alterar o número de porta editar o arquivo 'app.js'.
+## Desenvolvimento 
+O projeto foi desenvolvido com:
+*[node.js] (https://node.org) - Plataformade desenvolvimento javaScript
+*[Sublime Text](https://sublimetexte.com) - Editor de texto para programação.
+## Autores 
+* **João Vitor Ferreira Andrioni** -[joaovitorferreriaandrioni](https://github.com/joaovitorferreriaandrioni/)
